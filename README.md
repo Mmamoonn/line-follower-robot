@@ -1,18 +1,6 @@
 # 🤖 Line Follower Robot Using IR Sensors
 
-An autonomous line-following robot designed and implemented as part of the **Robotics Design Lab - 1** course at the University of Central Punjab. The robot uses a 5-channel TCRT5000 IR sensor array, an Arduino Nano microcontroller, and an L298N motor driver to detect and follow a black line on a white surface in real time.
-
----
-
-## 📌 Project Overview
-
-| Detail | Info |
-|--------|------|
-| University | University of Central Punjab (UCP) |
-| Course | Robotics Design Lab - 1 (REE220) |
-| Instructor | Dr. Nabeel Khalid |
-| Session | Spring 2025 |
-| Authors | Muhammad Mamoon (L1F23BSRI0014), Ali Ahmar Awan (L1F23BSRI0013), Asad Ali (L1F23BSRI0024) |
+An autonomous line-following robot designed and implemented. The robot uses a 5-channel TCRT5000 IR sensor array, an Arduino Nano microcontroller, and an L298N motor driver to detect and follow a black line on a white surface in real time.
 
 ---
 
@@ -138,6 +126,7 @@ line-follower-robot/
 ├── README.md
 ├── TROUBLESHOOTING.md
 └── LICENSE
+└── .gitignore
 ```
 
 ---
@@ -178,14 +167,9 @@ See the [LICENSE](LICENSE) file for details.
 
 ## 👤 Authors
 
-| Name | Reg. No |
-|------|---------|
-| Muhammad Mamoon | L1F23BSRI0014 |
-| Ali Ahmar Awan | L1F23BSRI0013 |
-| Asad Ali | L1F23BSRI0024 |
+Muhammad Mamoon
+Robotics Engineering Student
 
 ## 🙏 Acknowledgements
 
-- Course Instructor: **Dr. Nabeel Khalid**
-- University of Central Punjab — Spring 2025
 - Chassis designed using **SolidWorks**
