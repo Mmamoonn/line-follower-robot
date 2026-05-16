@@ -228,7 +228,3 @@
 - [TCRT5000 IR Sensor Guide](https://components101.com/sensors/tcrt5000-ir-sensor-module)
 
 ---
-
-*Troubleshooting Guide — Line Follower Robot*
-*Authors: Muhammad Mamoon, Ali Ahmar Awan, Asad Ali*
-*Course: Robotics Design Lab - 1 — UCP Spring 2025*
